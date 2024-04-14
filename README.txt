@@ -11,18 +11,8 @@
 # MDPs
 
 ## Frozen Lake
+ - explore_mdp_frozen_lake.ipynb
 
-- Value Iteration
-- Policy Iteration
-
-## Black Jack
-
-- Value Iteration
-- Policy Iteration
-
-# Reinforcement Learning
- - Frozen Lake
- - Black Jack
 
 
 # RUN THE MODELS
