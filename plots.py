@@ -57,5 +57,4 @@ class Plots:
             annot_kws={"fontsize": "xx-large"},
             ax=ax,
         ).set(title=title)
-        
-        
+
